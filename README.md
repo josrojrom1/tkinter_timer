@@ -1,4 +1,5 @@
 ## Tkinter chronometer
+![image](https://github.com/josrojrom1/tkinter_timer/assets/32680720/516685a5-16b8-4bc9-b97f-dfc80fc030aa)
 
 Digital chronometer designed in Python which works for Linux and Windows. The project uses Tkinter module.
 
@@ -27,8 +28,9 @@ sudo python timer_tkinter.py
 Remember to use the `deactivate` command when you finish using the chronometer to exit virtual environment.
 
 # Available functions
+![image](https://github.com/josrojrom1/tkinter_timer/assets/32680720/ba901bed-99cf-4616-80f4-5db00b22af04)
 
-In the actual version of Pomodoro timer you can use the following functions:
+In the actual version of Tkinter chronometer you can use the following functions:
 
 - Count from 00:00:00 to 99:99:99
 - Start timer
